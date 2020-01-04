@@ -1,0 +1,53 @@
+/* jumbotron styles */
+.jumbotron-styles {
+  height: 100vh;
+  margin-bottom: 0;
+  background: #0165ad;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+.jumbotron-content h1 {
+  font-size: 5vmax;
+}
+.jumbotron-content p {
+  font-size: 1vmax;
+}
+
+/* section 2 styles */
+#section2 {
+  min-height: 100vh;
+  background: #151515;
+  color: white;
+}
+#section2 h1 {
+  font-size: 4vmax;
+}
+#section2 h5 {
+  font-size: 1.5vmax;
+}
+#section2 p {
+  font-size: 1vmax;
+}
+
+/* section 3 styles */
+#section3 {
+  height: 50vh;
+}
+#section3 h1 {
+  font-size: 4vmax;
+}
+#section3 p {
+  font-size: 1vmax;
+}
+
+/* footer */
+footer {
+  height: 100%;
+  background: #0165ad;
+  padding-top: 10px;
+  color: white;
+}
+footer p {
+  font-size: 1vmax;
+}
